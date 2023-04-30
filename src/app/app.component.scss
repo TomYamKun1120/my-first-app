@@ -7,6 +7,10 @@
     -moz-osx-font-smoothing: grayscale;
   }
 
+  .spacer {
+    flex: 1;
+  }
+
   h1,
   h2,
   h3,
@@ -18,10 +22,6 @@
 
   p {
     margin: 0;
-  }
-
-  .spacer {
-    flex: 1;
   }
 
   .toolbar {
