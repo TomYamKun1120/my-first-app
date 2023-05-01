@@ -5,6 +5,10 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
+
+/**
+ * my-first-app画面.
+ */
 export class AppComponent {
   title = 'my-first-app';
 }
